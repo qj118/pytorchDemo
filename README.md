@@ -30,3 +30,4 @@ B站刘二大人[视频](https://www.bilibili.com/video/BV1Y7411d7Ys) 自码
   - rnn_basic.py (RNNCell)
   - rnn_basic2.py (RNN)
   - rnn_basic3.py (embedding + linear)
+  - name_classifier.py (embedding + GRU + linear)
